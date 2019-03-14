@@ -4,6 +4,7 @@ public class RandomNum {
 
 	public static void main(String[] args) {
 		System.out.println(RandomNum.randomDigit());
+		System.out.println("........");
 }
 
 	public static String randomDigit(){
